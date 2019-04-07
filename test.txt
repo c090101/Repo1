@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F4E4-4BA0
+
+ Directory of C:\Users\charlene\Desktop\myProject
+
+04/07/2019  12:30 AM    <DIR>          .
+04/07/2019  12:30 AM    <DIR>          ..
+04/07/2019  12:30 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  225,408,561,152 bytes free
